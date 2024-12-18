@@ -1,0 +1,2 @@
+example= "Переменная"
+print(example[0])
